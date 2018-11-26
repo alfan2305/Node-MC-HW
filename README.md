@@ -14,5 +14,5 @@ On `/hello` it return greeting in english.
 You can add lang query param to get different language greetings (ex. `/hello?lang=id`) and name query param to add name to display name (ex. `/hello?name=Alfan`)
 
 Available languages parameter:
-en -> English
-id -> Indonesia
+p en -> English
+p id -> Indonesia
